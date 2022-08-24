@@ -1,0 +1,8 @@
+//Install :
+node LTS version download.
+node module install
+
+//Module
+fs(file system), path(file path), buffer(binary data), 
+http(http server), url(url strings), util(utility function),
+os(get information about the OS)
